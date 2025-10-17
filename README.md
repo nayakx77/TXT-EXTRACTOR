@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://t.me/spidy-bots">
-    <img src="https://img.shields.io/badge/SPIDY-BOTS-303030?style=for-the-badge&logo=telegram&logoColor=white"/>
+  <a href="https://t.me/nayak_here">
+    <img src="https://img.shields.io/badge/NAYAK-BOTS-303030?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
 
